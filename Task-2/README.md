@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank">
-<img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
-	</a>
+<a href="https://www.insidesherpa.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/Technology%20Virtual%20Experience" target="_blank"></a>
 </p>
 
 <p align="center"> 
@@ -48,6 +46,8 @@ If you encounter an issue with `datautil.parser`, run this command:
 If you don't have pip, you can install it from: https://pip.pypa.io/en/stable/installing/
 
 Run <code>npm install && npm start</code> to start the React application.
+
+**_Note: If you encounter `Type error: Cannot find module '@jpmorganchase/perspective'.` follow the [link](https://github.com/insidesherpa/JPMC-tech-task-2/issues/24) for the solution. You can find the missing `@jpmorganchase/perspective` file from node_modulo in the discussion_**.
 
 It's okay to have audit warnings when installing/running the app.
 
