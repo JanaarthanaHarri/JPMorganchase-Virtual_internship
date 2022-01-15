@@ -7,3 +7,5 @@ https://www.theforage.com/virtual-internships/prototype/R5iK7HMxJGBgaSbvk/JP-Mor
 
 ## Certificate of Completion
 
+![image](https://user-images.githubusercontent.com/78354406/149603558-482e1888-6dc5-4215-8189-ee72bff32c3a.png)
+
